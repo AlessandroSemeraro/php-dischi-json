@@ -1,11 +1,39 @@
-[
-    "prova1",
-    "prova2",
-    "prova3",
-    "prova4",
-    "prova5",
-    "prova6",
-    "prova7",
-    "prova8",
-    "prova9" 
-]
+
+    [
+        {
+            "nome_album": "New Jersey",
+            "artista": "Bon Jovi",
+            "anno": 1988,
+            "img": "https://upload.wikimedia.org/wikipedia/en/2/2c/Bon_Jovi_New_Jersey.jpg"
+        },
+        {
+            "nome_album": "Live at Wembley 86",
+            "artista": "Queen",
+            "anno": 1992,
+            "img": "https://lastfm.freetls.fastly.net/i/u/500x500/d2b2b0f7334d4ec8a014276a3fcd0f86.jpg"
+        },
+        {
+            "nome_album": "Ten\"s Summoner\" Tales",
+            "artista": "Sting",
+            "anno": 1993,
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Sting_-_Ten_Summoner%27s_Tales.png"
+        },
+        {
+            "nome_album": "Steve Gadd Band",
+            "artista": "Steve Gadd Band",
+            "anno": 2018,
+            "img": "https://m.media-amazon.com/images/I/816pHaCXh+L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "nome_album": "Brave new World",
+            "artista": "Iron Maiden",
+            "anno": 2000,
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg"
+        },
+        {
+            "nome_album": "One more car, one more rider",
+            "artista": "Eric Clapton",
+            "anno": 2002,
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg"
+        }
+    ]

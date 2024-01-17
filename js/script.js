@@ -4,18 +4,18 @@ createApp({
     data() {
         return {
             apiUrl:'./server.php',
-            list : [],
+            albums : [],
         }
     },
     methods: {
-        getTodoList(){
+        getAlbums(){
             axios.get(this.apiUrl).then((response) => {
-                this.list = response.data;
+                this.albums = response.data;
             });
         }
     },
 
     created() {
-        this.getTodoList();
+        this.getAlbums();
     },
 }).mount('#app')
